@@ -51,3 +51,19 @@ header{
 body{
     background-color: #CFECFF;
 }
+
+button {
+    width: 6em;
+    height:1.7em;
+    font-size:120%;
+    transition-duration: 0.5s;
+    background-color: rgb(8, 202, 160);
+    border-radius: 2em;
+    border: 2px solid rgb(8, 202, 160);
+    color: whitesmoke;
+}
+
+button:hover {
+    background-color: #FF9DA2;
+    border: 0;
+}
